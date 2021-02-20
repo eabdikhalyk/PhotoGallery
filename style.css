@@ -1,0 +1,35 @@
+        div.header {
+             width: 800px;
+             margin: auto;
+        }
+        h1 {
+            text-align: center;
+        }
+        div.upload{
+             width: 800px;
+             height: 50px;
+             margin: auto;
+        }
+        div.container{
+             width: 800px;
+             margin: auto;
+        }
+        div.gallery {
+            
+            
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 5px;
+
+            float: left;
+            width: 180px;
+        }
+
+        div.gallery:hover {
+            border: 1px solid #777;
+        }
+
+        div.gallery img {
+            width: 180px;
+            height: 270px;
+        }
